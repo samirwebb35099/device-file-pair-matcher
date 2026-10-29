@@ -1,0 +1,17 @@
+{
+  "name": "device-file-pair-matcher",
+  "version": "0.1.0",
+  "description": "Maps a character or block device node to its corresponding device counterpart.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
